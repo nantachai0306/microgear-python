@@ -2,9 +2,9 @@ import microgear.client as microgear
 import time
 import logging
 
-appid = <appid>
-gearkey = <gearkey>
-gearsecret =  <gearsecret>
+appid = <Unbalance>
+gearkey = <hGCHSVuHP92G1Xk>
+gearsecret =  <IdLciZCa6M4SHjmc7Edt2NE64>
 
 microgear.create(gearkey,gearsecret,appid,{'debugmode': True})
 
